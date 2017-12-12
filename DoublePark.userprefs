@@ -1,16 +1,6 @@
-﻿<Properties StartupConfiguration="{F5EF678D-3D14-4734-B080-C9A9371B4145}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="DoublePark Status">
-    <Files>
-      <File FileName="DoublePark Status" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+﻿<Properties StartupConfiguration="{38E4D430-1042-4B03-B475-6FF28794B584}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.DoublePark PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.037592A7-34B5-491F-A002-B364D1167575">
+  <MonoDevelop.Ide.ItemProperties.DoublePark>
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.DoublePark>
 </Properties>
